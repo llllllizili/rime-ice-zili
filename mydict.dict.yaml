@@ -1,0 +1,14 @@
+---
+name: 词库名
+version: "版本号"
+sort: by_weight（按权重排序） | original（按码表顺序排序）
+columns:    # 不写 columns 属性时，默认顺序为：
+  - text    # 词汇
+  - code    # 编码
+  - weight  # 权重
+  - stem    # 造词码（不知道是啥，好像和拼音方案没有关系）
+...
+火炎焱燚	hohoh
+人从众𠈌	rfrfr
+吉喆嚞囍	xixix
+吉喆嚞囍	jijij
